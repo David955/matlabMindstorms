@@ -10,7 +10,7 @@ requirements:
 - RWTH Mindstorms NXT Toolbox (v4.07) [LINK](https://www.mindstorms.rwth-aachen.de/trac/wiki/Download)
 - NXT Fantom driver (v1.2.0) [LINK](https://www.lego.com/r/www/r/mindstorms/-/media/franchises/mindstorms%202014/downloads/firmware%20and%20software/nxt%20software/nxt%20fantom%20drivers%20v120.zip?l.r2=-964392510)
 - Libusb-win32 (v1.2.6.0)  [LINK](https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/1.2.6.0/libusb-win32-bin-1.2.6.0.zip/download)
-- The Brick firmware v1.31 [LINK](https://www.lego.com/r/www/r/mindstorms/-/media/franchises/mindstorms%202014/downloads/firmware%20and%20software/nxt%20software/firmware131_download1.zip?l.r2=798380141)
+- The Brick firmware (v1.31) [LINK](https://www.lego.com/r/www/r/mindstorms/-/media/franchises/mindstorms%202014/downloads/firmware%20and%20software/nxt%20software/firmware131_download1.zip?l.r2=798380141)
 - Lego Mindstorms NXT 2.0 Command Brick [LINK](http://drgraeme.net/LEGOUpDateNXTFirmware/Update-NXT-Firmware.htm)
 - NeXTExplorer [LINK](bricxcc.sourceforge.net/nextexplorer.zip)
 - MotorControl22.rxe [LINK](https://www.mindstorms.rwth-aachen.de/trac/browser/trunk/tools/MotorControl/MotorControl22.rxe)
