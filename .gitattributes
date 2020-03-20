@@ -1,9 +1,2 @@
-# Source files
-#=============
-*.m text diff=matlab
-*.mu text diff=matlab
-
-#Binary files
-#============
-*.mlx binary
-*.mlapp binary
+# Auto
+* text=auto
